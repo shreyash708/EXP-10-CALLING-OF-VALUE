@@ -28,5 +28,8 @@ An address of value is passed to the function.
 
 # Conclusion: 
 
-We learned to apply and the use of call by value and call by reference.
+In this experiment we learned = Call by Value: The function gets a copy of your data. It's like giving someone a photocopy—your original is safe and cannot be changed by the function.
+
+
+Call by Reference: The function gets a direct link to your original data. It's like giving someone the original document—any changes they make are permanent. Use this to modify the original variable or for better performance with large data
 
