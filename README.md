@@ -1,10 +1,14 @@
 # Title : Pointer Operations (Call by value and Call by reference)
 
-Tools : VS Code and C++ compiler
+# Tools :
 
-Aim:To study and implement Pointer Operations (Call by value and Call by reference)
+VS Code and C++ compiler
 
-Theory:
+# Aim:
+
+To study and implement Pointer Operations (Call by value and Call by reference)
+
+# Theory:
 
 # Call By Value : 
 
